@@ -1,3 +1,3 @@
 # Temp Logger
-Quick Script for logging tempeture data from serial with an Arduino
-Contains the python code (bad naming format) and the c++ Arduino code
+Quick code to log tempeture data from serial with an Arduino and the dhT11 sensor.
+Contains the python and Arduino script
